@@ -1,2 +1,1 @@
-# st6
-st6
+"# djangobot" 
